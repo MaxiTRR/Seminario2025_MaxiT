@@ -1,8 +1,7 @@
-# Seminario2025
+# Readme de Seminario 2025
 Repositorio para la cursada 2025
 
 # Mi Proyecto Personal
-
 Este repositorio contiene una página web desarrollada como práctica del curso de GitHub. Incluye HTML, CSS y JavaScript básicos.
 
 ## Características
@@ -18,7 +17,8 @@ Este repositorio contiene una página web desarrollada como práctica del curso 
 ## Tecnologías utilizadas
 - HTML5
 - CSS3
-- JavaScript
-[Google](www.google.com.ar)
+- JavaScrip
+- Python
+  
 ## Autor
-Pablo Fernando Melissari
+Folco Carril
