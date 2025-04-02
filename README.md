@@ -1,5 +1,5 @@
 # Seminario2025
-Repositorio para la cursada 2025
+Repositorio para la cursada 2025 
 
 # Mi Proyecto Personal
 
@@ -21,4 +21,5 @@ Este repositorio contiene una página web desarrollada como práctica del curso 
 - JavaScript
 [Google](www.google.com.ar)
 ## Autor
-Pablo Fernando Melissari
+Pablo Fernando Melissari (repositorio original)
+Alumno: Maximiliano Torres
